@@ -3,11 +3,12 @@
 
 ---
 ## 自己紹介
+
 ### <ruby>中尾<rp>（</rp><rt>ナカオ</rt><rp>）</rp></ruby> <ruby>瑛佑<rp>（</rp><rt>ヨウスケ</rt><rp>）</rp></ruby>
 ![中尾　瑛佑](./assets/koushi.jpg)
-
+---
 職歴
-- 陸上自衛隊 情報小隊
+- 陸上自衛隊
 - SI企業
 - eラーニングベンチャー
 - 大手家電メーカーの教育企業
@@ -15,6 +16,7 @@
 - 教育系スタートアップ企業
 - [合同会社 The Waggle](https://thewaggle.co.jp/) CEO
 - [株式会社 for Our Kids](https://4ok.jp) co-founder
+
 ---
 ![PETS](https://4ok.jp/pets/wp-content/uploads/2017/08/PETS_img.jpg)
 ---
