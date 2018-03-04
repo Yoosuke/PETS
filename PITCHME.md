@@ -98,9 +98,23 @@ PCもインターネットも使わないで
 平成２９年１１月１４日
 第７回 経済・財政一体改革推進委員会
 経済社会の活力ワーキング・グループ
- [文部科学省説明資料](http://www5.cao.go.jp/keizai-shimon/kaigi/special/reform/wg7/291127/shiryou1-1.pdf)
+ [文部科学省説明資料]()
 ![５P](./assets/monka.png)
 ---
+
+### わかんなくなっちゃった　w
+
+---
+
+ ### 先生達が「教材」を作れるようにしよう。
+
+---
+![PETS](./assets/PETS_Seq_ex1.jpg)
+
+---
+### 何を問いかけるのか？によっていくらでも学ばせられる
+
+ ![PETS](./assets/PETS_rei.png)
 
 ---
 ### PETS 現行モデル
