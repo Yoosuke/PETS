@@ -40,7 +40,7 @@ PCもインターネットも使わないで
 ### PETS 2号機
 ![PETS_second](https://4ok.jp/pets/wp-content/uploads/2016/08/PETS_2nd_600_002.jpg)
 ---
-### カリキュラムを作って欲しい
+### カリキュラムを作ろう。
 
 - 僕が培ってきた教材作成のノウハウをを全てここにつぎ込もう。
 
@@ -50,11 +50,8 @@ PCもインターネットも使わないで
 - 自ら楽しく練習する態度 |
 - 視点を変えるという事 |
 - 関係を整理する能力 |
-
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_bQkpT5e6tQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ---
 ### WorkShop
 
