@@ -52,6 +52,10 @@ PCもインターネットも使わないで
 - 関係を整理する能力 |
 
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_bQkpT5e6tQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
 ### WorkShop
 
 ![WorkShop](./assets/WS.png)
