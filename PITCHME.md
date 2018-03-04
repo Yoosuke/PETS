@@ -59,7 +59,6 @@ PCもインターネットも使わないで
 ---
 #### 「自分達の子供の為に」から、「皆んなの子供の為に」
 ##### for Our Kids.Inc
-co-Founder
 ![チーム](https://4ok.jp/corporate/wp-content/uploads/2016/09/fOK_member_all.jpg)
 ---
 #### 小学校 2020年プログラミング必修化
