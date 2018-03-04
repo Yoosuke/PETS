@@ -2,4 +2,4 @@ transition : zoom
 footnote : "© 2018 for Our Kids.Inc"
 slide-number: true
 logo : ./assets/fok_web_logo-1024x256.jpg
-autoslide : 30000
+autoslide : 10000
