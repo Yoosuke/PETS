@@ -133,7 +133,7 @@ PCもインターネットも使わないで
 - 第１学年～第６学年（全校生徒）総合「プログラミング体験」
 - 第3－6学年　パソコン倶楽部　「PETSでプログラミング体験　
 ---
-![amanuma](./assets/IMG_0433.jpg)
+![amanuma](https://github.com/Yoosuke/PETS/blob/master/assets/IMG_0433.JPG?raw=true)
 ---
 ## 一番最後に伝えたい事
 
